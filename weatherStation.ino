@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include "ds3231.h"
-#include "rtc_ds3231.h"
+//#include "rtc_ds3231.h"
 #include <MicroLCD.h>
 #include <SHT1x.h>
 #include <SD.h>
